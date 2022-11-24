@@ -34,7 +34,8 @@ Inicio
 10.	Después de 20 minutos en el horno, saca la pizza del horno y saborea el resultado. 
 
 # Pasos a seguir Algoritmo Hot N Cold
-Convertir de Celsius a Fahrenheit
+
+# Convertir de Celsius a Fahrenheit
 •	Inicio
 •	Solicitar los datos a convertir. 
 •	Escribir la formula ºF = (ºC · 1,8) + 32.
@@ -43,7 +44,7 @@ Convertir de Celsius a Fahrenheit
 •	Mostrar resultado. 
 •	Fin
 
-Convertir de Fahrenheit a Celsius
+# Convertir de Fahrenheit a Celsius
 •	Inicio
 •	Solicitar los datos a convertir. 
 •	Escribir la formula ºC = (ºF -32) / 1,8
