@@ -54,21 +54,21 @@ Inicio
 •	Fin
 
 # Calcular el volumen esfera, cubo pirámide.
-Esfera. 
+# Esfera. 
 •	Solicitar los datos de la esfera 
 •	Ingresarlos en el documento 
 •	Buscar e ingresar la formula que es ( V = 4/3 πr³.)
 •	Reemplazar los valores.
 •	Calcular el resultado
 •	Mostrar resultado
-Cubo 
+# Cubo 
 •	Solicitar los datos del cubo 
 •	Ingresarlos en el documento 
 •	Buscar e ingresar la fórmula que es lado x lado x lado =lado3
 •	Reemplazar los valores.
 •	Calcular el resultado
 •	Mostrar resultado
-PIRAMIDE
+# PIRAMIDE
 •	Solicitar los datos de la pirámide 
 •	Ingresarlos en el documento 
 •	Buscar e ingresar la fórmula que es = un tercio del área de la base B por la altura h
